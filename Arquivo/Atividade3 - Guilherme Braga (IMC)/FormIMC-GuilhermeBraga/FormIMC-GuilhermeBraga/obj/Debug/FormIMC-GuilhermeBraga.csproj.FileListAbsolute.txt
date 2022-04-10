@@ -1,0 +1,11 @@
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\bin\Debug\FormIMC-GuilhermeBraga.exe.config
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\bin\Debug\FormIMC-GuilhermeBraga.exe
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\bin\Debug\FormIMC-GuilhermeBraga.pdb
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC-GuilhermeBraga.csproj.AssemblyReference.cache
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC-GuilhermeBraga.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC_GuilhermeBraga.Form1.resources
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC_GuilhermeBraga.Properties.Resources.resources
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC-GuilhermeBraga.csproj.GenerateResource.cache
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC-GuilhermeBraga.csproj.CoreCompileInputs.cache
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC-GuilhermeBraga.exe
+C:\Users\Mind Developer\Desktop\IMC C#\FormIMC-GuilhermeBraga\FormIMC-GuilhermeBraga\obj\Debug\FormIMC-GuilhermeBraga.pdb
