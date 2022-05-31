@@ -1,0 +1,36 @@
+c:\users\0030482121048\documents\visual studio 2013\Projects\Atividade8\Atividade8\bin\Debug\Atividade8.exe.config
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\bin\Debug\Atividade8.exe
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\bin\Debug\Atividade8.pdb
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\obj\Debug\Atividade8.csprojResolveAssemblyReference.cache
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\obj\Debug\Atividade8.Exercício1.resources
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\obj\Debug\Atividade8.Form1.resources
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\obj\Debug\Atividade8.Properties.Resources.resources
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.GenerateResource.Cache
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\obj\Debug\Atividade8.exe
+C:\Users\0030482121048\Documents\Visual Studio 2013\Projects\Atividade8\Atividade8\obj\Debug\Atividade8.pdb
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.AssemblyReference.cache
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.Exercício1.resources
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.Form1.resources
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.Properties.Resources.resources
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.GenerateResource.cache
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.exe
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.pdb
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.Exercicio2.resources
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\obj\Debug\Atividade8.Exercicio4.resources
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\bin\Debug\Atividade8.exe.config
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\bin\Debug\Atividade8.exe
+C:\Users\Gui\Desktop\C#\Atividade8\Atividade8\bin\Debug\Atividade8.pdb
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\bin\Debug\Atividade8.exe.config
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\bin\Debug\Atividade8.exe
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\bin\Debug\Atividade8.pdb
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.csproj.AssemblyReference.cache
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.Exercicio2.resources
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.Exercicio4.resources
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.Exercício1.resources
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.Form1.resources
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.Properties.Resources.resources
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.csproj.GenerateResource.cache
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.exe
+C:\Users\Gui\Desktop\C#\Prova Prática\Atividade8\obj\Debug\Atividade8.pdb
