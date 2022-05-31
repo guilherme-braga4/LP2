@@ -1,0 +1,8 @@
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\bin\Debug\PNotas.exe.config
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\obj\Debug\PNotas.Form1.resources
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\obj\Debug\PNotas.Properties.Resources.resources
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\obj\Debug\PNotas.csproj.GenerateResource.Cache
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\bin\Debug\PNotas.exe
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\bin\Debug\PNotas.pdb
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\obj\Debug\PNotas.exe
+c:\users\0030482121048\documents\visual studio 2013\Projects\PNotas\PNotas\obj\Debug\PNotas.pdb
